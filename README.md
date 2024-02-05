@@ -1,3 +1,4 @@
+![logo](https://github.com/Fer0zkhan/Fer0zKhan/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Feroz Khan</h1>
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 

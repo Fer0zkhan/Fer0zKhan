@@ -5,8 +5,8 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
-- 🌱 I’m currently learning **NEST.JS, DB DESIGN ANALYSIS**
-- 💬 Ask me about **REACT, NODE(EXPRESS, NEST), POSTGRESQL, MONGODB**
+- 🌱 I’m currently learning **System Design, Flutter, and Gen AI**
+- 💬 Ask me about **REACT, NODE(EXPRESS, NEST), POSTGRESQL, MONGODB, Supabse, and Vercel**
 - 📫 How to reach me **ferozkhan12123@outlook.com**
 - 👨‍💻 All of my projects are available at **https://ferozkhan.netlify.app/**
 - 📄 Know about my experiences **https://ferozkhan.netlify.app/**
